@@ -1,5 +1,5 @@
 # `02` Rendering from objects
-[![Status overview badge](../../blob/badges/.github/badges/autograding-solution/badge.svg)](#results)
+[![Status overview badge](../../blob/badges/.github/badges/autograding-solution/badge.svg)](#-results)
 
 
 Now lets use a more complex variable to render our HTML, let's say we have the following JS Object containing a customer information:
@@ -29,10 +29,10 @@ Open the `index.js` and create the necesary code to make your file render the fo
 ```
 
 [//]: # (autograding info start)
-## Results
-⌛ Give it a minute. As long as you see the orange dot ![processing](https://raw.githubusercontent.com/DCI-EdTech/autograding-setup/main/assets/processing.svg) on top, CodeBuddy is still processing. Refresh this page to see it's current status.
-
-This is what CodeBuddy found when running your code. It is to show you what you have achieved and to give you hints on how to complete the exercise.
+# <img src="https://github.com/DCI-EdTech/autograding-setup/raw/main/assets/bot-large.svg" alt="" data-canonical-src="https://github.com/DCI-EdTech/autograding-setup/raw/main/assets/bot-large.svg" height="31" /> Results
+> ⌛ Give it a minute. As long as you see the orange dot ![processing](https://raw.githubusercontent.com/DCI-EdTech/autograding-setup/main/assets/processing.svg) on top, CodeBuddy is still processing. Refresh this page to see it's current status.
+>
+> This is what CodeBuddy found when running your code. It is to show you what you have achieved and to give you hints on how to complete the exercise.
 
 
 ### 1.App
